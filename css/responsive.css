@@ -1,0 +1,115 @@
+/* XL Device :1200px. */
+@media (min-width: 1450px) and (max-width: 1600px) {
+
+
+}
+
+@media (min-width: 1200px) and (max-width: 1449px) {
+
+	
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+    .nav-manu a {
+        font-size: 14px;
+    }
+
+    .manu-social-icon i {
+        padding-right: 15px;
+    }
+
+    .menu-btn a {
+        padding: 10px 25px;
+    }
+
+    .home-menu-bar {
+        height: 130vh;
+    }
+
+    a.main-skills {
+        padding: 11px 15px;
+        margin-right: 12px;
+    }
+
+    .project-card h5 {
+        margin-top: 85%;
+    }
+
+    .project-btn {
+        margin: 50px 365px 0 365px;
+    }
+
+    .blog-card span {
+        margin-right: 135px;
+    }
+
+.blog-card .project-title {
+    margin-left: 15px;
+}
+.blog-card h5 {
+    margin-top: 75%;
+}
+
+.footer-social-icon i {
+    margin: 10px 20px 0 0;
+}
+
+	
+
+}
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .manu-social-icon i {
+        padding-right: 35px;
+    }
+    
+    .menu-btn a {
+        padding: 15px 35px;
+    }
+
+    .about-me-right {
+        margin-top: 60px;
+    }
+
+    .project-btn {
+        margin: 20px 250px 0 250px;
+    }
+
+    .blog-card span {
+        line-height: 25px;
+        margin-right: 180px;
+    }
+
+    .contact-img img {
+        margin-top: 50px;
+    }
+
+    .footer-social-icon i {
+        margin: 10px 27px 0 0;
+    }
+
+    .copyright p {
+        text-align: center;
+        float: none;
+    }
+
+
+}
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+
+	
+	
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+	
+	
+}
